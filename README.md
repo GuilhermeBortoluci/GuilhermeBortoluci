@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Desenvolvedor front-end
+- 🔭 Front-end developer
 - 🌱 Atualmente estudando SQL
 - 📫 Contato através do e-mail: guilhermedev7@gmail.com
 
